@@ -1,3 +1,5 @@
+// stepsequencer
+
 int buttonPin[4] = { 36, 35, 34, 33 };
 int totalButtons = 4;
 
